@@ -21,6 +21,17 @@ p {
     font-size: 18px;
 }
 
-img {
+footer {
+    margin-bottom: 30px;
+    background: rgb(129, 115, 143);
+    text-align: center;
+}
+
+.img-padrao {
     margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 50px;
 }
